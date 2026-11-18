@@ -1,0 +1,13 @@
+Python is a high-level programming language.
+
+A Python list is mutable. Its elements can be
+changed after creation.
+
+A Python tuple is immutable. Its elements cannot
+be changed after creation.
+
+RAG stands for Retrieval-Augmented Generation.
+It combines information retrieval with text generation.
+
+Embeddings convert text into numerical vectors.
+These vectors help computers identify semantic similarity.
